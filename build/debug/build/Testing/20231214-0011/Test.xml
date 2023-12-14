@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231214-0011-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.20.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="masil-X78K"
+	OSRelease="6.2.0-37-generic"
+	OSVersion="#38~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov  2 18:01:13 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="9216"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15824"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2900.47"
+	>
+	<Testing>
+		<StartDateTime>Dec 14 09:11 KST</StartDateTime>
+		<StartTestTime>1702512696</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 14 09:11 KST</EndDateTime>
+		<EndTestTime>1702512696</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

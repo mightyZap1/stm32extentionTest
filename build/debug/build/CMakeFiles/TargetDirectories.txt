@@ -1,0 +1,3 @@
+/home/masil/STM32CubeIDE/workspace_1.13.2/bldcTest/build/debug/build/CMakeFiles/rebuild_cache.dir
+/home/masil/STM32CubeIDE/workspace_1.13.2/bldcTest/build/debug/build/CMakeFiles/edit_cache.dir
+/home/masil/STM32CubeIDE/workspace_1.13.2/bldcTest/build/debug/build/CMakeFiles/bldcTest.dir
