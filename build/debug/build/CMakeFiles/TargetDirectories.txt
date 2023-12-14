@@ -1,0 +1,3 @@
+/home/masil/workspace/stm32extentionTest/build/debug/build/CMakeFiles/bldcTest.dir
+/home/masil/workspace/stm32extentionTest/build/debug/build/CMakeFiles/edit_cache.dir
+/home/masil/workspace/stm32extentionTest/build/debug/build/CMakeFiles/rebuild_cache.dir
